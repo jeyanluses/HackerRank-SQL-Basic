@@ -1,1 +1,1 @@
-# HackerRank-SQL-Basic
+# SQL (Basic) Certification
